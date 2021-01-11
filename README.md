@@ -16,7 +16,7 @@
 - Unreal Engine
 - Unity
 
-## 🕹️ Programming languages 🔢
+## 🕹️ Programming language 🔢
 - C++
 - C#
 - Java
