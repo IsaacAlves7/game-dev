@@ -15,3 +15,10 @@
 ## 🕹️ Third step: Game Engine ⚙️
 - Unreal Engine
 - Unity
+
+## 🕹️ Programming languages 🔢
+- C++
+- C#
+- Java
+- Python
+- HTML5/ CSS3/ JavaScript
