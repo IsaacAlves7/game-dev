@@ -10,7 +10,7 @@
   <li>Validations</li>
 </ol>
 
-## 🕹️ Second step: Profesionals 🧑‍💼
+## 🕹️ Second step: Profesionals 💼
 
 ## 🕹️ Third step: Game Engine ⚙️
 - Unreal Engine
