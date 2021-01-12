@@ -11,10 +11,16 @@
 </ol>
 
 ## 🕹️ Second step: Profesionals 💼
+- <b>Game designer</b> é o profissional que planeja, cria a ideia, a mecânica e a história;
+- <b>Designer</b> é o profissional que cria a arte do cenário, do personagem e do jogo, além das animações;
+- <b>Desenvolvedor (Programador)</b> é o profissional que cria a lógica e os comandos necessários para que a máquina compile a ação de cada componente existente no game.
+
+Esse trio de profissionais é uma maneira de otimizar tempo para o desenvolvimento de um jogo simples ou complexo, o que é bastante produtivo e eficiente. No entanto, dependendo da especialidade do profissional, pode-se criar o jogo , simples ou complexo, com apenas um profissional qualificado, porém o tempo de produção será bem mais longo.
 
 ## 🕹️ Third step: Game Engine ⚙️
-- Unreal Engine
-- Unity
+- Unreal Engine: Linguagem C#
+- Unity: Blueprint e C++
+- 
 
 ## 🕹️ Programming language 🔢
 - C++
