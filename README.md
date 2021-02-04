@@ -28,11 +28,12 @@ Esse trio de profissionais é uma maneira de otimizar tempo para o desenvolvimen
 - Java
 - Python
 - HTML5/ CSS3/ JavaScript
+<hr>
 
-## 🕹️ My Projects of Game Development 🎮
+# 🕹️ My Projects of Game Development 🎮
 
-### JavaScript
+## JavaScript
 <div align="left">
 <img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="77" title="The Snake Game">
-<img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="77" title="Ship Game">
+<h1>The Snake Game</h1>
 </div>
